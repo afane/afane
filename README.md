@@ -1,11 +1,10 @@
-### Greetings, tech enthusiasts and recruiters! 👋
+### Greetings, Tech enthusiasts, Reasechers and recruiters! 👋
 
-PS: If I'm not active here, you can find some of my more recent projects on my Kaggle profile
-
-Khalifa's GitHub Stats & Highlights
+PS: If I'm not active here, you can find my more recent projects on my Kaggle profile
 
 
-🏫 Education Odyssey:
+
+🏫 Education (BS Engineering, MS Engineering, MS Data Science):
 
 📚 Bachelor's in Electrical Engineering from ESNAM School of Engineering, where the seeds of innovation were sown.
 🌟 Transitioned to the windy city, earning a Master's in Energy Engineering from the University of Illinois Chicago with a perfect score.
