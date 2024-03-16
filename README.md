@@ -1,6 +1,6 @@
 ## Greetings, Tech enthusiasts, Reasechers and recruiters! 👋
 
-PS: If I'm not active here, you can find my more recent projects on my Kaggle profile
+PS: If I'm not active here, you may find my recent projects on my Kaggle profile
 
 <div align="center">
     <img src="https://github.com/afane/afane/blob/8611822c147d129c9d3829c183af47ad75c3a6cd/data_science_shutterstock_shutterstock_Trueffelpix.jpg" width="900" height="250">
