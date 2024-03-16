@@ -2,6 +2,8 @@
 
 PS: If I'm not active here, you can find my more recent projects on my Kaggle profile
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datanami.com%2F2020%2F08%2F20%2Fdata-science-salaries-are-flat-but-analytics-teams-weather-pandemic%2F&psig=AOvVaw1yUlUe8oj8jOZeok3OKwyR&ust=1710651614189000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDf7IyA-IQDFQAAAAAdAAAAABAE
+
 ## 📈 What I've Been Up To
 ## 🌟 Finished Papers Submitted for review
 - Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
