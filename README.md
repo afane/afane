@@ -2,17 +2,17 @@
 
 PS: If I'm not active here, you can find my more recent projects on my Kaggle profile
 
+### What I've Been Up To
 
 
-🏫 Education (BS Engineering, MS Engineering, MS Data Science):
+### 🏫 Education (BS Engineering, MS Engineering, MS Data Science):
 
 📚 Bachelor's in Electrical Engineering from ESNAM School of Engineering, where the seeds of innovation were sown.
 🌟 Transitioned to the windy city, earning a Master's in Energy Engineering from the University of Illinois Chicago with a perfect score.
 📈 Currently mastering the art of Data Science at Fordham University, New York, with a focus that spans Data Mining, Machine Learning, NLP, and more, maintaining a stellar 4.0 GPA throughout.
 📍 Current Location: New York, NY, USA - Elevating my expertise and embracing the challenges of Data Science.
 
-Professional Milestones:
-
+#### Professional Milestones:
 🚀 Fordham University: As a Graduate Researcher, I've authored papers on optimizing lead testing in NYC and selecting the right classifier for imbalanced datasets, shedding light on critical health and machine learning challenges.
 💡 Internships: From building ETL data pipelines at ADIAS Mauritania to driving CO2 emissions reduction projects at VEIC, Vermont, my intern journey has been rich and varied.
 🏢 Industry Impact: Demonstrated my analytical prowess as a Business Analyst at SGSA Investments, Mauritania, leading cost reduction initiatives with tangible outcomes.
