@@ -1,4 +1,4 @@
-## Greetings, Tech enthusiasts, Reasechers and recruiters! 👋
+## Greetings, Tech enthusiasts, Reasechers and Recruiters! 👋
 
 PS: If I'm not active here, you may find my recent projects on my Kaggle profile
 
@@ -7,8 +7,8 @@ PS: If I'm not active here, you may find my recent projects on my Kaggle profile
 </div>
 
 ## 📈 What I've Been Up To
-## 🌟 Finished Papers Submitted for review
-### Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
+## ✅  Finished Papers Submitted for review
+### 🌡️ Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
 <p align="center">
     <a href="https://github.com/afane/BLLtesting_inNYC/blob/c8a28b6bfba7dccaeaa54d853f2966ef007b7bef/BLL_paper.ipynb">Code</a> &nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1QHs9N8yAVW9inJrhglSRHrMrcPdASbrp/view?usp=sharing">Paper</a>
 </p>
@@ -19,7 +19,7 @@ blood lead levels (BLL) across 42 neighborhoods from 2005 to 2021. Despite a cit
 decrease in BLL, significant neighborhood-level disparities persist, highlighting the need for
 more targeted public health efforts.
 
-We grouped neighborhoods into five categories according to their risk levels using clustering
+I grouped neighborhoods into five categories according to their risk levels using clustering
 methods, and then applied optimization techniques to develop a more effective strategy for
 distributing testing resources to high-risk areas. This approach enhanced the detection of elevated
 blood lead levels by 14.3%, leading to the potential identification of over 410 additional cases.
@@ -29,7 +29,11 @@ blood lead levels by 14.3%, leading to the potential identification of over 410 
 
 
 
-### - Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspectiv
+### 🎯 Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspective
+
+In this paper, we conduct a series of comprehensive experiments using 30 imbalanced datasets, 12 base classifiers and 8 resampling techniques, we then approach this challenge from a new perspective  by focusing on the performance of classifiers and resampling techniques based on the type of features present in the data; continuous or categorical. 
+
+Our study aims to provide researchers and practitioners with a systematic framework for selecting an appropriate combination of resampling techniques and classifiers tailored to the characteristics of the imbalanced dataset at hand.
 ## 💻 Ongoing Projects
 
 
@@ -53,12 +57,12 @@ Technical Arsenal:
 
 Languages: Python, SQL, R, Bash - The pillars of my coding universe.
 
-Technologies & Frameworks: Pandas, NumPy, Scikit-learn, Keras, PyTorch, MySQL, AWS, LaTeX, Snowflake, and more. My toolbox for tackling the toughest of data challenges.
-
-From Git to MongoDB, my skill set spans the full spectrum of data engineering and analysis.
+Technologies & Frameworks: Pandas, NumPy, Scikit-learn, Keras, PyTorch, MySQL, AWS, LaTeX, Snowflake, Spark, MapReduce.
 
 Noteworthy Projects:
 
 🌐 Eazypython.com: My platform to democratize machine learning knowledge, making it accessible and understandable.
+
 🔋 Neural Network for Electricity Price Prediction: A testament to my analytical skills, forecasting electricity prices with remarkable accuracy.
+
 🕵️ Neural Network to Detect Counterfeit Products: Combining computer vision and machine learning to protect brands and consumers alike.
