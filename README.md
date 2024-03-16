@@ -6,7 +6,7 @@ PS: If I'm not active here, you can find my more recent projects on my Kaggle pr
 
 ## 📈 What I've Been Up To
 ## 🌟 Finished Papers Submitted for review
-- Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
+- Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City ![Code](https://github.com/afane/BLLtesting_inNYC/blob/c8a28b6bfba7dccaeaa54d853f2966ef007b7bef/BLL_paper.ipynb) ![Paper](https://drive.google.com/file/d/1QHs9N8yAVW9inJrhglSRHrMrcPdASbrp/view?usp=sharing)
 - Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspectiv
 ## 💻 Ongoing Projects
 
