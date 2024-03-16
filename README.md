@@ -3,7 +3,7 @@
 PS: If I'm not active here, you can find my more recent projects on my Kaggle profile
 
 ## 📈 What I've Been Up To
-## 🌟 Finihsed Paper Submitted for review
+## 🌟 Finished Papers Submitted for review
 - Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
 - Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspectiv
 ## 💻 Ongoing Projects
