@@ -1,6 +1,4 @@
-Hello, world! And greetings, fellow coder or recruiter! 👋
-**Greetings, tech enthusiasts and recruiters! 👋
-**
+### Greetings, tech enthusiasts and recruiters! 👋
 
 PS: If I'm not active here, you can find some of my more recent projects on my Kaggle profile
 
