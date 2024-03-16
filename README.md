@@ -2,7 +2,9 @@
 
 PS: If I'm not active here, you can find my more recent projects on my Kaggle profile
 
-![image](https://github.com/afane/afane/blob/8611822c147d129c9d3829c183af47ad75c3a6cd/data_science_shutterstock_shutterstock_Trueffelpix.jpg)
+<div align="center">
+    <img src="https://github.com/afane/afane/blob/8611822c147d129c9d3829c183af47ad75c3a6cd/data_science_shutterstock_shutterstock_Trueffelpix.jpg" width="900" height="250">
+</div>
 
 ## 📈 What I've Been Up To
 ## 🌟 Finished Papers Submitted for review
@@ -18,6 +20,11 @@ We grouped neighborhoods into five categories according to their risk levels usi
 methods, and then applied optimization techniques to develop a more effective strategy for
 distributing testing resources to high-risk areas. This approach enhanced the detection of elevated
 blood lead levels by 14.3%, leading to the potential identification of over 410 additional cases.
+<div align="center">
+    <img src="https://github.com/afane/afane/blob/c3f26125b5aab91bb1629e31e904557bb7e1c82e/map.png" width="400" height="400">
+</div>
+
+
 
 ### - Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspectiv
 ## 💻 Ongoing Projects
