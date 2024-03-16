@@ -6,8 +6,18 @@ PS: If I'm not active here, you can find my more recent projects on my Kaggle pr
 
 ## 📈 What I've Been Up To
 ## 🌟 Finished Papers Submitted for review
-- Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City ![Code](https://github.com/afane/BLLtesting_inNYC/blob/c8a28b6bfba7dccaeaa54d853f2966ef007b7bef/BLL_paper.ipynb) ![Paper](https://drive.google.com/file/d/1QHs9N8yAVW9inJrhglSRHrMrcPdASbrp/view?usp=sharing)
-- Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspectiv
+### - Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City [Code](https://github.com/afane/BLLtesting_inNYC/blob/c8a28b6bfba7dccaeaa54d853f2966ef007b7bef/BLL_paper.ipynb) [Paper](https://drive.google.com/file/d/1QHs9N8yAVW9inJrhglSRHrMrcPdASbrp/view?usp=sharing)
+This study addresses lead exposure in New York City (NYC) children, focusing on disparities in
+blood lead levels (BLL) across 42 neighborhoods from 2005 to 2021. Despite a citywide
+decrease in BLL, significant neighborhood-level disparities persist, highlighting the need for
+more targeted public health efforts.
+
+We grouped neighborhoods into five categories according to their risk levels using clustering
+methods, and then applied optimization techniques to develop a more effective strategy for
+distributing testing resources to high-risk areas. This approach enhanced the detection of elevated
+blood lead levels by 14.3%, leading to the potential identification of over 410 additional cases.
+
+### - Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspectiv
 ## 💻 Ongoing Projects
 
 
