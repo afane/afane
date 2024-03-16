@@ -1,6 +1,6 @@
-Greetings, tech enthusiasts and recruiters! 👋
-
-If I'm not active here, you can find some of my more recent projects on my Kaggle profile
+**Greetings, tech enthusiasts and recruiters! 👋
+**
+PS: If I'm not active here, you can find some of my more recent projects on my Kaggle profile
 
 Khalifa's GitHub Stats & Highlights
 
