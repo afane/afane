@@ -55,11 +55,11 @@ Using F1 score as the primary metric we can see that:
 
 ## 🏫 Education (BS Engineering, MS Engineering, MS Data Science):
 
-📚 Bachelor's in Electrical Engineering from ESNAM School of Engineering, where the seeds of innovation were sown.
+📚 Bachelor's in Electrical Engineering from ESNAM School of Engineering.
 
-🔬 Transitioned to the windy city, earning a Master's in Energy Engineering from the University of Illinois Chicago with a perfect score.
+🔬 Transitioned to the windy city, earning a Master's in Energy Engineering from the University of Illinois Chicago.
 
-🏛️ Currently mastering the art of Data Science at Fordham University, New York, with a focus that spans Data Mining, Machine Learning, NLP, and more, maintaining a stellar 4.0 GPA throughout.
+🗽 MS in Data Science at Fordham University, New York, with a focus that spans Data Mining, Machine Learning, NLP, and more, maintaining a stellar 4.0 GPA throughout.
 
 📍 Current Location: New York, NY, USA - Elevating my expertise and embracing the challenges of Data Science.
 
