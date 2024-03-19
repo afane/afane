@@ -47,10 +47,10 @@ Using F1 score as the primary metric we can see that:
 
 
 ## 💻 Ongoing Projects
-### 🤖  Fine-tuning the LLaMA 2 70B LLM on Yelp, Amazon, and TripAdvisor datasets for deep 
-### sentiment analysis in NLP with generative AI using PyTorch and Hugging Face's Transformers.
+#### 🤖  Fine-tuning the LLaMA 2 70B LLM on Yelp, Amazon, and TripAdvisor datasets for deep 
+#### sentiment analysis in NLP with generative AI using PyTorch and Hugging Face's Transformers.
 
-### ☀️ Analyzing the Heat Vulnerability Index for Neighborhoods in New York City
+#### ☀️ Analyzing the Heat Vulnerability Index for Neighborhoods in New York City
 
 
 
