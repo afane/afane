@@ -10,7 +10,7 @@ PS: If I'm not active here, you may find my recent projects on my Kaggle profile
 ## ✅  Finished Papers Submitted for review
 ### 🌡️ Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
 <p align="center">
-    <a href="https://github.com/afane/BLLtesting_inNYC/blob/c8a28b6bfba7dccaeaa54d853f2966ef007b7bef/BLL_paper.ipynb">Code</a> &nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1QHs9N8yAVW9inJrhglSRHrMrcPdASbrp/view?usp=sharing">Paper</a>
+    <a href="https://github.com/afane/BLLtesting_inNYC/blob/7e94e65883cd1e4962441e8669f91e3b89ba6ee4/BLL_paper.ipynb">Code</a> &nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1QHs9N8yAVW9inJrhglSRHrMrcPdASbrp/view?usp=sharing">Paper</a>
 </p>
 
 
