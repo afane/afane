@@ -43,7 +43,7 @@ Our study aims to provide researchers and practitioners with a systematic framew
 Using F1 score as the primary metric we can see that:
 
 - For imbalanced datasets with numerical features: the best performing classifiers are Logistic Regression, Gradient Boosting and Neural Networks
-- For datasets with categorical features Random Forest, Decision Tree and Gradient boosting seem to the best choices.
+- For datasets with categorical features Random Forest, Decision Tree and Gradient boosting seem to perform better.
 
 
 ## 💻 Ongoing Projects
