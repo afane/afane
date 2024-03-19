@@ -69,9 +69,6 @@ Using F1 score as the primary metric we can see that:
 
 💡 Internships: From building ETL data pipelines at ADIAS Mauritania to driving CO2 emissions reduction projects at VEIC, Vermont, my intern journey has been rich and varied.
 
-🏢 Industry Impact: Demonstrated my analytical prowess as a Business Analyst at SGSA Investments, Mauritania, leading cost reduction initiatives with tangible outcomes.
-Technical Arsenal:
-
 Languages: Python, SQL, R, Bash - The pillars of my coding universe.
 
 Technologies & Frameworks: Pandas, NumPy, Scikit-learn, Keras, PyTorch, MySQL, AWS, LaTeX, Snowflake, Spark, MapReduce.
