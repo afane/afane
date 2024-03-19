@@ -31,7 +31,7 @@ blood lead levels by 14.3%, leading to the potential identification of over 410 
 
 ### 🎯 Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspective
 
-In this paper, we conduct a series of comprehensive experiments using 30 imbalanced datasets, 12 base classifiers and 8 resampling techniques, we then approach this challenge from a new perspective  by focusing on the performance of classifiers and resampling techniques based on the type of features present in the data; continuous or categorical. 
+In this paper, we conduct a series of comprehensive experiments using 35 imbalanced datasets, 10 base classifiers and 8 resampling techniques, we then approach this challenge from a new perspective  by focusing on the performance of classifiers and resampling techniques based on the type of features present in the data; continuous or categorical. 
 
 Our study aims to provide researchers and practitioners with a systematic framework for selecting an appropriate combination of resampling techniques and classifiers tailored to the characteristics of the imbalanced dataset at hand.
 ## 💻 Ongoing Projects
