@@ -59,9 +59,9 @@ Using F1 score as the primary metric we can see that:
 
 🔬 Transitioned to the windy city, earning a Master's in Energy Engineering from the University of Illinois Chicago.
 
-🗽 MS in Data Science at Fordham University, New York, with a focus that spans Data Mining, Machine Learning, NLP, and more, maintaining a stellar 4.0 GPA throughout.
+🗽 MS in Data Science at Fordham University, with a focus that spans Data Mining, Machine Learning, NLP, and more, maintaining a stellar 4.0 GPA throughout.
 
-📍 Current Location: New York, NY, USA - Elevating my expertise and embracing the challenges of Data Science.
+📍 Current Location: New York, NY, USA
 
 ## Professional Milestones:
 🚀 Fordham University: As a Graduate Researcher, I've authored papers on optimizing lead testing in NYC and selecting the right classifier for imbalanced datasets, shedding light on critical health and machine learning challenges.
