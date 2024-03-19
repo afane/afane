@@ -28,13 +28,30 @@ blood lead levels by 14.3%, leading to the potential identification of over 410 
 </div>
 
 
-
-### 🎯 Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspective
-
+### ⚖️ Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspective
+<p align="center">
+    <a href="https://github.com/afane/Class_Imbalance/blob/4df3bfdcd15466a2a4dae819223c69ec878a42a3/Class_Imbalance_Analysis.ipynb">Code</a> &nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1-S53Zz4T2LfcO-X0wGiXVIa_KdyYkEAI/view?usp=sharing">Paper</a>
+</p>
 In this paper, we conduct a series of comprehensive experiments using 35 imbalanced datasets, 10 base classifiers and 8 resampling techniques, we then approach this challenge from a new perspective  by focusing on the performance of classifiers and resampling techniques based on the type of features present in the data; continuous or categorical. 
 
 Our study aims to provide researchers and practitioners with a systematic framework for selecting an appropriate combination of resampling techniques and classifiers tailored to the characteristics of the imbalanced dataset at hand.
+
+<div align="center">
+    <img src="https://github.com/afane/afane/blob/74cf718fa2d08157923fbc0d30953b6e445f293f/f11.png" width="600" height="350">
+</div>
+
+Using F1 score as the primary metric we can see that:
+
+- For imbalanced datasets with numerical features: the best performing classifiers are Logistic Regression, Gradient Boosting and Neural Networks
+- For datasets with categorical features Random Forest, Decision Tree and Gradient boosting seem to the best choices.
+
+
 ## 💻 Ongoing Projects
+### 🤖  Fine-tuning the LLaMA 2 70B LLM on Yelp, Amazon, and TripAdvisor datasets for deep 
+### sentiment analysis in NLP with generative AI using PyTorch and Hugging Face's Transformers.
+
+### ☀️ Analyzing the Heat Vulnerability Index for Neighborhoods in New York City
+
 
 
 ## 🏫 Education (BS Engineering, MS Engineering, MS Data Science):
