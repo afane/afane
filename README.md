@@ -7,6 +7,10 @@ PS: If I'm not active here, you may find my recent projects on my Kaggle profile
 </div>
 
 ## 📈 What I've Been Up To
+
+<div align="center">
+    <img src="https://github.com/afane/afane/blob/62c9b87c5d4978625448aa88abb235e6bf641c26/3mt.png" width="900" height="250">
+</div>
 ## ✅  Finished Papers Submitted for review
 ### 🌡️ Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
 <p align="center">
