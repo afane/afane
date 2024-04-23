@@ -6,8 +6,11 @@ PS: If I'm not active here, you may find my recent projects on my Kaggle profile
 <div align="center">
     <img src="https://github.com/afane/afane/blob/62c9b87c5d4978625448aa88abb235e6bf641c26/3mt.png" width="450" height="450">
 </div>
+
 ## ✅  Finished Papers Submitted for review
+
 ### 🌡️ Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
+
 <p align="center">
     <a href="https://github.com/afane/BLLtesting_inNYC/blob/7e94e65883cd1e4962441e8669f91e3b89ba6ee4/BLL_paper.ipynb">Code</a> &nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1QHs9N8yAVW9inJrhglSRHrMrcPdASbrp/view?usp=sharing">Paper</a>
 </p>
