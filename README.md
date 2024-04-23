@@ -1,11 +1,6 @@
 ## Greetings, Tech enthusiasts, Reasechers and Recruiters! 👋
 
 PS: If I'm not active here, you may find my recent projects on my Kaggle profile
-
-<div align="center">
-    <img src="https://github.com/afane/afane/blob/094f9bce7c8de5ba66c7d212368604d009b513e7/data_science_shutterstock_shutterstock_Trueffelpix.jpg" width="900" height="250">
-</div>
-
 ## 📈 What I've Been Up To
 ## My presenation the at the 3MT competetion where I won the third place award 
 <div align="center">
