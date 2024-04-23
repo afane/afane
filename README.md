@@ -2,9 +2,9 @@
 
 PS: If I'm not active here, you may find my recent projects on my Kaggle profile
 ## 📈 What I've Been Up To
-## My presenation the at the 3MT competetion where I won the third place award 
+### My presenation the at the 3MT competetion where I won the third place award 
 <div align="center">
-    <img src="https://github.com/afane/afane/blob/62c9b87c5d4978625448aa88abb235e6bf641c26/3mt.png" width="450" height="450">
+    <img src="https://github.com/afane/afane/blob/62c9b87c5d4978625448aa88abb235e6bf641c26/3mt.png" width="450" height="520">
 </div>
 
 ## ✅  Finished Papers Submitted for review
