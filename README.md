@@ -1,18 +1,19 @@
 ## Greetings, Tech enthusiasts, Reasechers and Recruiters! 👋
 
-PS: If I'm not active here, you may find my recent projects on my Kaggle profile
+PS: If I'm not active here, you may find my recent projects on my <a href="https://afane.github.io">personal website</a>.
+
 ## 📈 What I've Been Up To
 ### My presenation the at the 3MT competetion where I won the third place award 
 <div align="center">
     <img src="https://github.com/afane/afane/blob/62c9b87c5d4978625448aa88abb235e6bf641c26/3mt.png" width="520" height="450">
 </div>
 
-## ✅  Finished Papers Submitted for review
+## ✅  Published Papers
 
 ### 🌡️ Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
 
 <p align="center">
-    <a href="https://github.com/afane/BLLtesting_inNYC/blob/7e94e65883cd1e4962441e8669f91e3b89ba6ee4/BLL_paper.ipynb">Code</a> &nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1QHs9N8yAVW9inJrhglSRHrMrcPdASbrp/view?usp=sharing">Paper</a>
+    <a href="https://github.com/afane/BLLtesting_inNYC/blob/7e94e65883cd1e4962441e8669f91e3b89ba6ee4/BLL_paper.ipynb">Code</a> &nbsp;&nbsp;&nbsp; <a href="https://link.springer.com/article/10.1007/s11524-024-00920-5">Paper</a>
 </p>
 
 
@@ -30,26 +31,7 @@ blood lead levels by 14.3%, leading to the potential identification of over 410 
 </div>
 
 
-### ⚖️ Selecting Resampling Techniques and Classifiers for Imbalanced Datasets: A New Perspective
-<p align="center">
-    <a href="https://github.com/afane/Class_Imbalance/blob/4df3bfdcd15466a2a4dae819223c69ec878a42a3/Class_Imbalance_Analysis.ipynb">Code</a> &nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1NXpASGFljR84tY6Y_--XUsK4ORBFbS3y/view?usp=sharing">Paper</a>
-</p>
-In this paper, we conduct a series of comprehensive experiments using 35 imbalanced datasets, 10 base classifiers and 8 resampling techniques, we then approach this challenge from a new perspective  by focusing on the performance of classifiers and resampling techniques based on the type of features present in the data; continuous or categorical. 
-
-Our study aims to provide researchers and practitioners with a systematic framework for selecting an appropriate combination of resampling techniques and classifiers tailored to the characteristics of the imbalanced dataset at hand.
-
-<div align="center">
-    <img src="https://github.com/afane/afane/blob/74cf718fa2d08157923fbc0d30953b6e445f293f/f11.png" width="600" height="350">
-</div>
-
-Using F1 score as the primary metric we can see that:
-
-- For imbalanced datasets with numerical features: the best performing classifiers are Logistic Regression, Gradient Boosting and Neural Networks
-- For datasets with categorical features Random Forest, Decision Tree and Gradient boosting seem to perform better.
-
-
 ## 💻 Ongoing Projects
-#### 🤖  Fine-tuning the LLaMA 2 70B LLM on Yelp, Amazon, and TripAdvisor datasets for deep sentiment analysis in NLP with generative AI using PyTorch and Hugging Face's Transformers.
 
 #### ☀️ Analyzing the Heat Vulnerability Index for Neighborhoods in New York City
 
@@ -66,9 +48,8 @@ Using F1 score as the primary metric we can see that:
 📍 Current Location: New York, NY, USA
 
 ## Professional Milestones:
-🚀 Fordham University: As a Graduate Researcher, I've authored papers on optimizing lead testing in NYC and selecting the right classifier for imbalanced datasets, shedding light on critical health and machine learning challenges.
+🚀 Fordham University: As a Machine Learning Researcher, I've authored papers on optimizing lead testing in NYC and selecting the right classifier for imbalanced datasets, shedding light on critical health and machine learning challenges.
 
-💡 Internships: From building ETL data pipelines at ADIAS Mauritania to driving CO2 emissions reduction projects at VEIC, Vermont, my intern journey has been rich and varied.
 
 Languages: Python, SQL, R, Bash - The pillars of my coding universe.
 
